@@ -6,7 +6,8 @@ int main() {
     cout << "Введіть x: ";
     cin >> x;
 
-    y = --
+    y = (x ^ 2 + 3x + 5) / (2x + 1)
+
 
     cout << "y = " << y << endl;
     return 0;
